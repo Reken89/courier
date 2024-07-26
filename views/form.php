@@ -80,8 +80,9 @@
     <section class="my__account--section section--padding">
         <section class="shipping__section">
             <div class="container">
-                <p>Список фильтров:</p>
-                    <b><u>Дата</u></b> - Фильтрация по дате</br>
+                <p>Описание кнопок:</p>
+                    <b><u>Рассчитать</u></b> - Рассчитать дату прибытия в регион</br>
+                    <b><u>Добавить</u></b> - Добавить поездку в рассписание</br>
                 </p>
                 <div class="my__account--section__inner border-radius-10 d-flex">
                     <div class="account__wrapper">
