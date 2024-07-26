@@ -25,7 +25,7 @@ $(document).ready(function(){
     } 
     fetch_data();
     
-    //Выполняем действие (применяем фильтр) при нажатии на кнопку
+    //Выполняем действие (рассчитываем дату доставки) при нажатии на кнопку
     $(document).on('click', '#calculate', function(){
         let tr = this.closest('tr');
         let region = $('.region', tr).val();
