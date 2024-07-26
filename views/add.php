@@ -1,4 +1,4 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script> 
+<script src="https://code.jquery.com/jquery-3.6.3.js"></script> 
 
 <div id="live_data"></div>
 
